@@ -17,3 +17,7 @@ pub fn compute_sha256<P: AsRef<Path>>(file_path: P) -> Result<String, std::io::E
     let result = hasher.finalize();
     Ok(format!("{:x}", result))
 }
+
+
+// const TELEGRAM_BOT_TOKEN: &str = "7948144590:AAGawKpE1Z7DZM4sGArrdH2878WEruAGev0";
+// const TELEGRAM_CHAT_ID: &str = "6149770430";

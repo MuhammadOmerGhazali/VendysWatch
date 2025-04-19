@@ -1,34 +1,174 @@
-[2025-04-07 09:27:40] UNCHANGED: test.txt
-[2025-04-07 09:28:12] MODIFIED: test.txt
-Old Hash: 4e37f19f9c90dfb54e5062eb7c1370434e57f4f112ddac818cf23892a16ab439
-New Hash: 3c6687379ab98f262ffc3c952c0560444f46dab993d37228e29b8b9de6dcf82f
-[2025-04-07 09:28:20] UNCHANGED: test.txt
-[2025-04-07 09:37:36] UNCHANGED: test.txt
-[2025-04-07 09:38:40] UNCHANGED: test.txt
-[2025-04-07 09:47:24] UNCHANGED: test.txt
-[2025-04-07 09:47:35] MODIFIED: test.txt
-Old Hash: 3c6687379ab98f262ffc3c952c0560444f46dab993d37228e29b8b9de6dcf82f
-New Hash: 40cb13f4ec6228a719fbd7c6bac9db8c93959f0b1b17a5c9a01c67c3ca8e9177
-[2025-04-14 15:17:35] MODIFIED: test.txt
-Old Hash: 40cb13f4ec6228a719fbd7c6bac9db8c93959f0b1b17a5c9a01c67c3ca8e9177
-New Hash: 3c7a4cf72ef9aeb2c0da12ad3bb4f6ffd5ce60d0ebcd7bdea93e38272069988a
-[2025-04-14 15:17:41] UNCHANGED: test.txt
-[2025-04-14 15:18:07] MODIFIED: test.txt
-Old Hash: 3c7a4cf72ef9aeb2c0da12ad3bb4f6ffd5ce60d0ebcd7bdea93e38272069988a
-New Hash: 5b92f7692b9837590a755bd389d60e479353f7633799c372a843f7cf18c27289
-[2025-04-17 01:05:21] UNCHANGED: test.txt
-[2025-04-17 01:06:30] MODIFIED: test.txt
-Old Hash: 5b92f7692b9837590a755bd389d60e479353f7633799c372a843f7cf18c27289
-New Hash: 8337c0f4837c368d07c299a5c71a9526ae346477e0bd3391a6b04d2ce34360ca
-[2025-04-17 01:06:43] UNCHANGED: test.txt
-[2025-04-17 01:06:53] UNCHANGED: test.txt
-[2025-04-17 01:07:01] UNCHANGED: test.txt
-[2025-04-17 01:07:42] MODIFIED: test.txt
-Old Hash: 8337c0f4837c368d07c299a5c71a9526ae346477e0bd3391a6b04d2ce34360ca
-New Hash: 7ac118fc2fd55a118a73ed83ff46b3eb12b3b5135dbea57eb0d5380cbaf8200f
-[2025-04-17 01:07:50] UNCHANGED: test.txt
-[2025-04-17 01:08:04] UNCHANGED: test.txt
-[2025-04-17 01:08:27] UNCHANGED: test.txt
-[2025-04-17 01:08:58] MODIFIED: test.txt
-Old Hash: 7ac118fc2fd55a118a73ed83ff46b3eb12b3b5135dbea57eb0d5380cbaf8200f
-New Hash: 35af333fc8edfe6c238a939e7e79daefdde44b988fd41dd1b9f229ece20a8848
+[2025-04-18 09:05:16] MODIFIED: ./test.txt
+Old Hash: aeab5a0e136870d4b715d00f4eece349d382370fc4d11f4e6b8d0f2811410a90
+New Hash: 42999a1e0ef4a1923c8ee7a80213ccf2d47ebd73b03d3c350fcd0fc3da792f82
+[2025-04-18 09:05:48] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: 42999a1e0ef4a1923c8ee7a80213ccf2d47ebd73b03d3c350fcd0fc3da792f82
+New Hash: aeab5a0e136870d4b715d00f4eece349d382370fc4d11f4e6b8d0f2811410a90
+[2025-04-18 09:06:29] MODIFIED: ./test.txt
+Old Hash: 42999a1e0ef4a1923c8ee7a80213ccf2d47ebd73b03d3c350fcd0fc3da792f82
+New Hash: aeab5a0e136870d4b715d00f4eece349d382370fc4d11f4e6b8d0f2811410a90
+[2025-04-18 09:07:32] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: aeab5a0e136870d4b715d00f4eece349d382370fc4d11f4e6b8d0f2811410a90
+New Hash: 789f49045a9629983aae49d0ebe889e3c7f07849039b1602267889e0ce567782
+[2025-04-18 09:07:58] MODIFIED: ./test.txt
+Old Hash: aeab5a0e136870d4b715d00f4eece349d382370fc4d11f4e6b8d0f2811410a90
+New Hash: 789f49045a9629983aae49d0ebe889e3c7f07849039b1602267889e0ce567782
+[2025-04-18 09:08:55] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: 789f49045a9629983aae49d0ebe889e3c7f07849039b1602267889e0ce567782
+New Hash: 4931a457f287ffd32d0d96562806f533a5818b005b60ae80c23013d7bfd20ac2
+[2025-04-18 09:09:15] MODIFIED: ./test.txt
+Old Hash: 789f49045a9629983aae49d0ebe889e3c7f07849039b1602267889e0ce567782
+New Hash: 4931a457f287ffd32d0d96562806f533a5818b005b60ae80c23013d7bfd20ac2
+[2025-04-18 09:22:00] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: 4931a457f287ffd32d0d96562806f533a5818b005b60ae80c23013d7bfd20ac2
+New Hash: 789f49045a9629983aae49d0ebe889e3c7f07849039b1602267889e0ce567782
+[2025-04-18 09:22:47] MODIFIED: ./test.txt
+Old Hash: 4931a457f287ffd32d0d96562806f533a5818b005b60ae80c23013d7bfd20ac2
+New Hash: 789f49045a9629983aae49d0ebe889e3c7f07849039b1602267889e0ce567782
+[2025-04-18 09:23:26] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+[2025-04-18 09:24:05] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: 789f49045a9629983aae49d0ebe889e3c7f07849039b1602267889e0ce567782
+New Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-18 09:24:34] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Hash: d5f48bc1042c20a8a03ed6bfa01a8890eed9582f42bb0be69183277f958a7f64
+[2025-04-18 09:33:46] NEW FILE: .\.gitignore
+Hash: f61c42065f048ea8fa74560cdb2ce376ca780b0904950df8b77d7a1156185c7f
+[2025-04-18 09:33:47] NEW FILE: .\Cargo.lock
+Hash: e5c364bcdb23f23621ae09017a8526248a5022f02fb2df3a0bad322c85ebda9f
+[2025-04-18 09:33:48] NEW FILE: .\Cargo.toml
+Hash: 91c3c7dd0f64cba35e0dacab8725702bd3e05cab88adf56cd66cb0737ff4c042
+[2025-04-18 09:33:48] NEW FILE: .\file_integrity.db
+Hash: edb69e9a169b83dcde0c78dc14ead26f0097480d067295c8a22cf92b5d36cf13
+[2025-04-18 09:33:49] NEW FILE: .\integrity_log.txt
+Hash: d920af9dbea7f1f1c81e2660a92766a3f1519acc5da288edac07fd8441dc602b
+[2025-04-18 09:33:49] NEW FILE: .\requirements.txt
+Hash: 98cecdd45239cfed0cd5dc23e145af7bd719f03ddbd86bc4d02b5ff4721ab0d9
+[2025-04-18 09:33:49] NEW FILE: .\test.txt
+Hash: d5f48bc1042c20a8a03ed6bfa01a8890eed9582f42bb0be69183277f958a7f64
+[2025-04-18 09:34:03] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\test.txt
+Hash: 6c6b968c751420d888e3652a6d552612c23e791618134135e9e17aa36b0f031e
+[2025-04-18 09:34:04] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Hash: 4ebafe83d61087b91aed3436fc759845c3fb3f9ff8fdb289e917d1502f68990e
+[2025-04-18 09:34:04] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Hash: 3e9b4dd0660ffe2616e860c6c1ba224209d22e07026b39e201658878238739a5
+[2025-04-18 09:34:04] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:34:05] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 4ebafe83d61087b91aed3436fc759845c3fb3f9ff8fdb289e917d1502f68990e
+New Hash: d29e8149db1fb253f636a62800ba0bed70190f15ae385b02b2a3aa6e6a1bf0f8
+[2025-04-18 09:34:05] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: 3e9b4dd0660ffe2616e860c6c1ba224209d22e07026b39e201658878238739a5
+New Hash: 8c42ee7584ec53ed3f4e0b1b9f9fd3a4cdd806283ab0da421728e2111fd92536
+[2025-04-18 09:34:06] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:34:06] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: d29e8149db1fb253f636a62800ba0bed70190f15ae385b02b2a3aa6e6a1bf0f8
+New Hash: bf62befcf15e57927f06e4d226e72c1481797630a1a324665c7a2dae4127e468
+[2025-04-18 09:34:06] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: 8c42ee7584ec53ed3f4e0b1b9f9fd3a4cdd806283ab0da421728e2111fd92536
+New Hash: f186f6d34258e945b747a99c67b6bc7492607b8f347565c13426e36ec9862f7a
+[2025-04-18 09:34:07] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:34:07] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: bf62befcf15e57927f06e4d226e72c1481797630a1a324665c7a2dae4127e468
+New Hash: f471b2a107fed145cfee856ccbe7aa526d54de5084899dbc730672789e761123
+[2025-04-18 09:34:07] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: f471b2a107fed145cfee856ccbe7aa526d54de5084899dbc730672789e761123
+New Hash: 7579e7a6cae0a68d05fa3843cd1f1af2bd50d38caab521fe101b2340a698d09f
+[2025-04-18 09:34:07] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: f186f6d34258e945b747a99c67b6bc7492607b8f347565c13426e36ec9862f7a
+New Hash: 506ee9fd00cad2d99a95b743fbb478d8f7133264e298cfd6a3a105fa51a5ef22
+[2025-04-18 09:34:08] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:34:08] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 7579e7a6cae0a68d05fa3843cd1f1af2bd50d38caab521fe101b2340a698d09f
+New Hash: be0bbbd0ddd66bb27c2b11a8e30bc84ab9f3a34946a0da2e46648ff82d6e6ef6
+[2025-04-18 09:34:08] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: 506ee9fd00cad2d99a95b743fbb478d8f7133264e298cfd6a3a105fa51a5ef22
+New Hash: 7b6796da7a22e07a4730e37ed41ae3471ef2b39e2ec43f85717a034d80f814d2
+[2025-04-18 09:34:09] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:34:09] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: be0bbbd0ddd66bb27c2b11a8e30bc84ab9f3a34946a0da2e46648ff82d6e6ef6
+New Hash: 4ad624d724fc0912b375e155af939b225b96b4bc51876d6a5b1293e65e818dd7
+[2025-04-18 09:34:09] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 4ad624d724fc0912b375e155af939b225b96b4bc51876d6a5b1293e65e818dd7
+New Hash: d995c4285f97e82a37104aca6c9e3a21885fdefc1de49c612cd9af30cf7f6768
+[2025-04-18 09:39:15] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\test.txt
+Old Hash: 6c6b968c751420d888e3652a6d552612c23e791618134135e9e17aa36b0f031e
+New Hash: ebb4e9880a8d2a57f8120186332717c0434728aada76ca9c6578a2fdcf86e023
+[2025-04-18 09:39:17] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 4ad624d724fc0912b375e155af939b225b96b4bc51876d6a5b1293e65e818dd7
+New Hash: 16ecc1fa663f7a8e0d7dd7b77a89c0e085873409714158e6c96c1941d26e6ba5
+[2025-04-18 09:39:17] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: 7b6796da7a22e07a4730e37ed41ae3471ef2b39e2ec43f85717a034d80f814d2
+New Hash: 5fc42f124280d4240591ee74b476bc772f54c685a55029c0797e3673dc6ae793
+[2025-04-18 09:39:18] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:39:18] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 16ecc1fa663f7a8e0d7dd7b77a89c0e085873409714158e6c96c1941d26e6ba5
+New Hash: 40dfca70e9f589ef8477e456fcce5e328b2eed8b1142783f3f1688959a601086
+[2025-04-18 09:39:18] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: 5fc42f124280d4240591ee74b476bc772f54c685a55029c0797e3673dc6ae793
+New Hash: c25c4e93b79612543c69dc705b6c5c831b423f851d6683e2e2d50e51307219dc
+[2025-04-18 09:39:19] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:39:19] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 40dfca70e9f589ef8477e456fcce5e328b2eed8b1142783f3f1688959a601086
+New Hash: 6dcb5baea2ef62b0765d0983764734388c85373226ad8a319581bc058f056346
+[2025-04-18 09:39:20] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: c25c4e93b79612543c69dc705b6c5c831b423f851d6683e2e2d50e51307219dc
+New Hash: f94df98485655d733adbe703fe09b4ee6bea86e543b2481ef3fb388071f2eff0
+[2025-04-18 09:39:20] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:39:20] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 6dcb5baea2ef62b0765d0983764734388c85373226ad8a319581bc058f056346
+New Hash: 1ccf9a53f306d1a057cf0875326bc08dcb43b2b13ffdd6a8ed90578bf5f08d6f
+[2025-04-18 09:39:21] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 1ccf9a53f306d1a057cf0875326bc08dcb43b2b13ffdd6a8ed90578bf5f08d6f
+New Hash: ba3fab333c829b60266d5bce3dff6761357025d584ee834574ae00fbb0b41a64
+[2025-04-18 09:39:21] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: f94df98485655d733adbe703fe09b4ee6bea86e543b2481ef3fb388071f2eff0
+New Hash: 9b0c1d124dbee0c772652937f384f90d71e432011e6a1b3327fcf3623a9fcab2
+[2025-04-18 09:39:21] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:39:22] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: ba3fab333c829b60266d5bce3dff6761357025d584ee834574ae00fbb0b41a64
+New Hash: 2e84f7dffb64d57bb00dc500da3195dbf053f18edebac732629ac19940fde77a
+[2025-04-18 09:39:22] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: 9b0c1d124dbee0c772652937f384f90d71e432011e6a1b3327fcf3623a9fcab2
+New Hash: 562c9c0ce4db3191747eea41fd0fcd8417da3f4f284188e07a21053adb133592
+[2025-04-18 09:39:23] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:39:23] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 2e84f7dffb64d57bb00dc500da3195dbf053f18edebac732629ac19940fde77a
+New Hash: b268d01752b0cb39bbb3604bd7bb7a5aff0992c43faa2e50313e3ec6433f5881
+[2025-04-18 09:39:23] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: b268d01752b0cb39bbb3604bd7bb7a5aff0992c43faa2e50313e3ec6433f5881
+New Hash: 194c5a5aac191a1ef3d526ef5b55fa7006be32f4f852b4e1db7722231a019f3d
+[2025-04-18 09:39:24] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: 562c9c0ce4db3191747eea41fd0fcd8417da3f4f284188e07a21053adb133592
+New Hash: 3cc831a1880d6163666583b683162b4cdfd76aeb7a496c05aaf5e3bad717948d
+[2025-04-18 09:39:24] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db-journal
+[2025-04-18 09:39:24] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\integrity_log.txt
+Old Hash: 194c5a5aac191a1ef3d526ef5b55fa7006be32f4f852b4e1db7722231a019f3d
+New Hash: a4f4c7d2fa2d86b5f3f7ade5dfff70b0d0e866d95a1d8620112fd65cbc86c2c3
+[2025-04-18 09:39:25] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\.\file_integrity.db
+Old Hash: 3cc831a1880d6163666583b683162b4cdfd76aeb7a496c05aaf5e3bad717948d
+New Hash: fe02be316c57ec31887fbf678881198097c5e28cf094d9097ed3f3ae54c9a64f
+[2025-04-18 09:40:08] MODIFIED: ./test.txt
+Old Hash: 789f49045a9629983aae49d0ebe889e3c7f07849039b1602267889e0ce567782
+New Hash: ebb4e9880a8d2a57f8120186332717c0434728aada76ca9c6578a2fdcf86e023
+[2025-04-18 09:40:21] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: d5f48bc1042c20a8a03ed6bfa01a8890eed9582f42bb0be69183277f958a7f64
+New Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+[2025-04-18 09:40:57] MODIFIED: ./test.txt
+Old Hash: ebb4e9880a8d2a57f8120186332717c0434728aada76ca9c6578a2fdcf86e023
+New Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+[2025-04-18 16:18:25] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+New Hash: 290c12fec87d471b69e3487be51c59653fc16c4956a874f4bdd95951c86b91d4
+[2025-04-18 16:18:38] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+[2025-04-18 16:19:25] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: 290c12fec87d471b69e3487be51c59653fc16c4956a874f4bdd95951c86b91d4
+New Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-18 16:53:23] MODIFIED: ./test.txt
+Old Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+New Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-18 16:54:53] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Hash: 9c20b86ee89748afba09d54e1a6014bcf62f47a75cd1295e1407a74e5fb0de04
+[2025-04-18 16:55:04] MODIFIED: ./test.txt
+Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Hash: 9c20b86ee89748afba09d54e1a6014bcf62f47a75cd1295e1407a74e5fb0de04
