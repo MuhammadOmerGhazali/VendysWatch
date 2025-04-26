@@ -5,7 +5,7 @@ mod realtime_monitoring;
 
 #[tokio::main]
 async fn main() {
-    let dir_to_watch = "./test.txt"; 
+    let dir_to_watch = "./watch_dir"; 
     let db_path = "file_integrity.db";
     let log_file = "integrity_log.txt";
 

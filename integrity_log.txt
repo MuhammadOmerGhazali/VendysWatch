@@ -172,3 +172,61 @@ New Hash: 9c20b86ee89748afba09d54e1a6014bcf62f47a75cd1295e1407a74e5fb0de04
 [2025-04-18 16:55:04] MODIFIED: ./test.txt
 Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 New Hash: 9c20b86ee89748afba09d54e1a6014bcf62f47a75cd1295e1407a74e5fb0de04
+[2025-04-19 16:33:09] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\test.txt
+Old Hash: 9c20b86ee89748afba09d54e1a6014bcf62f47a75cd1295e1407a74e5fb0de04
+New Hash: 28ae4947687846dd7c57ee8aa8a12dad280c9ef06d486d89eff25828a1524063
+[2025-04-19 16:33:28] MODIFIED: ./test.txt
+Old Hash: 9c20b86ee89748afba09d54e1a6014bcf62f47a75cd1295e1407a74e5fb0de04
+New Hash: 28ae4947687846dd7c57ee8aa8a12dad280c9ef06d486d89eff25828a1524063
+[2025-04-19 16:47:24] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\New Text Document.txt
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-19 16:48:53] NEW FILE: ./watch_dir\rfg.txt
+Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+[2025-04-19 16:49:35] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\rfg.txt
+[2025-04-19 16:49:56] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\test.txt
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-19 16:50:03] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\test.txt
+Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+[2025-04-19 16:50:13] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\test.txt
+Old Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+New Hash: 9c20b86ee89748afba09d54e1a6014bcf62f47a75cd1295e1407a74e5fb0de04
+[2025-04-19 16:50:33] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\salman.txt
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-19 16:50:43] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\salman.txt
+Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Hash: 040f55d83120219ef59773b7842ae7d773790209e27727929fd4601924a35946
+[2025-04-21 09:28:40] NEW FILE: ./watch_dir\salman.txt
+Hash: 0340361957e42ac991db3f6ff1b2838c305322118daa6237b4255d642d15adc5
+[2025-04-21 09:28:52] NEW FILE: ./watch_dir\test.txt
+Hash: 9c20b86ee89748afba09d54e1a6014bcf62f47a75cd1295e1407a74e5fb0de04
+[2025-04-21 09:29:19] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\salman.txt
+Old Hash: 040f55d83120219ef59773b7842ae7d773790209e27727929fd4601924a35946
+New Hash: 281fd0aeed803017cd3fe597bcc44c256bfe5e93670abb97f9798000127b33a7
+[2025-04-21 09:30:20] MODIFIED: ./watch_dir\salman.txt
+Old Hash: 0340361957e42ac991db3f6ff1b2838c305322118daa6237b4255d642d15adc5
+New Hash: 281fd0aeed803017cd3fe597bcc44c256bfe5e93670abb97f9798000127b33a7
+[2025-04-21 09:30:49] DELETED FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\salman.txt
+[2025-04-21 09:31:06] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\salman.txt
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-21 09:31:14] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\salman.txt
+Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Hash: b252df44adc8fd58baf95f08db06021d59388a0ce52c6cf7b7bdf3c0e0b219da
+[2025-04-21 09:31:27] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\ghazali.txt
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-21 09:32:11] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\ghazali.txt
+Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Hash: 7ed254d855b86fabaaa52e143d50941376a828dfc0ef3db1a1b43f1ba1e95ac6
+[2025-04-21 10:02:50] NEW FILE: ./watch_dir\ghazali.txt
+Hash: 7ed254d855b86fabaaa52e143d50941376a828dfc0ef3db1a1b43f1ba1e95ac6
+[2025-04-21 10:02:52] MODIFIED: ./watch_dir\salman.txt
+Old Hash: 281fd0aeed803017cd3fe597bcc44c256bfe5e93670abb97f9798000127b33a7
+New Hash: b252df44adc8fd58baf95f08db06021d59388a0ce52c6cf7b7bdf3c0e0b219da
+[2025-04-21 10:04:06] NEW FILE: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\test.txt
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-21 10:04:22] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\test.txt
+Old Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+New Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+[2025-04-21 10:06:54] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\test.txt
+Old Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
+New Hash: 66955035ad31a7199e9de34e02be8a768a74076e8d02ad341971ee34d4dafb3d
