@@ -1,0 +1,962 @@
+
+=== Audit Logs for /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt - 2025-04-28 10:15:05 ===
+Time: 04/27/2025 22:30:27
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:55:53
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:00
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:15
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:15:01
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:15:05
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:15:05
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:15:05
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------

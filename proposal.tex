@@ -1,0 +1,163 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{geometry}
+\usepackage{titlesec}
+
+\geometry{a4paper, margin=1in}
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+
+\title{VendysWatch: Real-time File System Monitoring and Integrity Verification}
+\author{Vendy}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}
+VendysWatch is a comprehensive file system monitoring and integrity verification system designed to provide real-time monitoring of file system activities and ensure data integrity. The system combines Linux auditd capabilities with custom monitoring logic to track file modifications, access patterns, and potential security breaches.
+
+\section{Introduction}
+In today's digital environment, maintaining file system integrity and monitoring file access is crucial for both security and operational purposes. VendysWatch addresses these needs by providing a robust solution that:
+
+\begin{itemize}
+    \item Monitors file system activities in real-time
+    \item Tracks file modifications and access patterns
+    \item Verifies file integrity through cryptographic hashing
+    \item Provides detailed audit logs of all file operations
+    \item Offers a user-friendly interface for monitoring and management
+\end{itemize}
+
+\section{System Architecture}
+The system is built using Rust and consists of several key components:
+
+\subsection{Core Components}
+\begin{itemize}
+    \item \textbf{Auditd Integration}: Leverages Linux auditd for low-level file system monitoring
+    \item \textbf{Real-time Monitoring}: Continuous monitoring of specified directories
+    \item \textbf{Integrity Verification}: Cryptographic hashing for file integrity checks
+    \item \textbf{Logging System}: Comprehensive logging of all file operations
+    \item \textbf{Database Storage}: Persistent storage of monitoring data
+\end{itemize}
+
+\subsection{Technical Implementation}
+\begin{itemize}
+    \item \textbf{Programming Language}: Rust for performance and safety
+    \item \textbf{Database}: SQLite for data persistence
+    \item \textbf{File System Integration}: Linux auditd and inotify
+    \item \textbf{User Interface}: Command-line interface with real-time updates
+\end{itemize}
+
+\section{Features}
+\subsection{File Monitoring}
+\begin{itemize}
+    \item Real-time tracking of file modifications
+    \item Access pattern monitoring
+    \item Detailed audit logs with timestamps
+    \item User and process tracking
+\end{itemize}
+
+\subsection{Security Features}
+\begin{itemize}
+    \item Cryptographic hashing for integrity verification
+    \item Detailed audit trails
+    \item Process and user identification
+    \item Suspicious activity detection
+\end{itemize}
+
+\section{Implementation Details}
+\subsection{File System Monitoring}
+The system uses Linux auditd to monitor file system activities:
+\begin{lstlisting}[language=Rust]
+pub fn setup_auditd_rules(file_path: &str) -> Result<(), String> {
+    // Setup comprehensive monitoring rules
+    let rules = [
+        vec!["-w", file_path, "-p", "rwxa", "-k", "file_operations"],
+        vec!["-w", file_path, "-p", "wa", "-k", "dir_changes"],
+        // Additional monitoring rules...
+    ];
+    // Implementation details...
+}
+\end{lstlisting}
+
+\subsection{Integrity Verification}
+File integrity is verified using cryptographic hashing:
+\begin{lstlisting}[language=Rust]
+pub fn calculate_file_hash(file_path: &str) -> Result<String, String> {
+    // Calculate SHA-256 hash of file contents
+    // Implementation details...
+}
+\end{lstlisting}
+
+\section{Logging System}
+\subsection{Importance of Comprehensive Logging}
+The logging system in VendysWatch serves several critical purposes:
+
+\begin{itemize}
+    \item \textbf{Security}: Detailed logs help identify and investigate security incidents
+    \item \textbf{Compliance}: Maintains audit trails required by various regulations
+    \item \textbf{Debugging}: Assists in troubleshooting system issues
+    \item \textbf{Forensics}: Provides evidence for security investigations
+    \item \textbf{Performance Monitoring}: Tracks system behavior and performance
+\end{itemize}
+
+\subsection{Logging Implementation}
+The system implements a multi-level logging approach:
+
+\begin{lstlisting}[language=Rust]
+pub struct Logger {
+    file: File,
+    level: LogLevel,
+}
+
+impl Logger {
+    pub fn new(log_path: &str, level: LogLevel) -> Result<Logger, String> {
+        // Implementation details...
+    }
+
+    pub fn log(&mut self, level: LogLevel, message: &str) -> Result<(), String> {
+        // Implementation details...
+    }
+}
+\end{lstlisting}
+
+\subsection{Log Types and Levels}
+\begin{itemize}
+    \item \textbf{System Logs}: Track system-level events and errors
+    \item \textbf{Audit Logs}: Record all file system activities
+    \item \textbf{Security Logs}: Monitor security-related events
+    \item \textbf{Performance Logs}: Track system performance metrics
+\end{itemize}
+
+\subsection{Log Management}
+\begin{itemize}
+    \item \textbf{Rotation}: Automatic log rotation to prevent disk space issues
+    \item \textbf{Retention}: Configurable retention periods for different log types
+    \item \textbf{Compression}: Automatic compression of archived logs
+    \item \textbf{Search}: Efficient log search capabilities
+\end{itemize}
+
+\section{Use Cases}
+\begin{itemize}
+    \item \textbf{Security Monitoring}: Track unauthorized file access
+    \item \textbf{Compliance}: Maintain audit trails for regulatory requirements
+    \item \textbf{Data Integrity}: Ensure file contents remain unchanged
+    \item \textbf{Forensics}: Investigate file system activities
+\end{itemize}
+
+\section{Conclusion}
+VendysWatch provides a comprehensive solution for file system monitoring and integrity verification. Its combination of real-time monitoring, cryptographic verification, and detailed logging makes it suitable for various security and monitoring applications.
+
+\section{Future Work}
+\begin{itemize}
+    \item Web-based dashboard for remote monitoring
+    \item Machine learning for anomaly detection
+    \item Integration with SIEM systems
+    \item Support for distributed monitoring
+\end{itemize}
+
+\end{document} 

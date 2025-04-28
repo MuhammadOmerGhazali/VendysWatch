@@ -1,0 +1,1118 @@
+
+=== Audit Logs for /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt - 2025-04-28 10:16:00 ===
+Time: 04/27/2025 22:30:27
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:06:43
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:06:47
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:06:47
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:06:47
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:07:35
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:07:35
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:09:55
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:09:55
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:12:55
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:12:55
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:18:20
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:18:20
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:22:49
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:22:49
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:24:32
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:24:32
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:27:24
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:27:24
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:28:43
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:28:43
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:32:38
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/27/2025 23:32:38
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:47:17
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:47:22
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:47:22
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:54:03
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:55:53
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:55:58
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:00
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:17
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 09:56:47
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:14
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:33
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:34
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:11:38
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:12:02
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:13:51
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:19
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:14:20
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:15:53
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:16:00
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:16:00
+Process: cursor
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------
+Time: 04/28/2025 10:16:00
+Process: code
+User: vendy
+File: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Working Directory: /home/vendy
+--------------------------------------------------------------------------------

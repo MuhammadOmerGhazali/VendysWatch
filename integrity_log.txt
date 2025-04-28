@@ -230,3 +230,159 @@ New Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
 [2025-04-21 10:06:54] MODIFIED: C:\Users\Hassan Shahid\OneDrive\Documents\db\VendysWatch\./watch_dir\test.txt
 Old Hash: 13aacf62bf7029566aa6488bd4722075f9c8a3fa3e63ae018819998ff619e409
 New Hash: 66955035ad31a7199e9de34e02be8a768a74076e8d02ad341971ee34d4dafb3d
+[2025-04-27 21:45:10] NEW FILE: ./watch_dir/ghazali.txt
+Hash: 7ed254d855b86fabaaa52e143d50941376a828dfc0ef3db1a1b43f1ba1e95ac6
+[2025-04-27 21:46:10] NEW FILE: ./watch_dir/test.txt
+Hash: 66955035ad31a7199e9de34e02be8a768a74076e8d02ad341971ee34d4dafb3d
+[2025-04-27 21:47:28] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/ghazali.txt
+Hash: 7ed254d855b86fabaaa52e143d50941376a828dfc0ef3db1a1b43f1ba1e95ac6
+[2025-04-27 21:48:29] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/test.txt
+Hash: 66955035ad31a7199e9de34e02be8a768a74076e8d02ad341971ee34d4dafb3d
+[2025-04-27 21:50:44] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/test.txt
+Hash: 66955035ad31a7199e9de34e02be8a768a74076e8d02ad341971ee34d4dafb3d
+[2025-04-27 21:50:44] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: b617f35d39f269ee09bd8595154b33c9bc510207d161fedde1376ed74717b469
+[2025-04-27 21:50:44] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Hash: b252df44adc8fd58baf95f08db06021d59388a0ce52c6cf7b7bdf3c0e0b219da
+[2025-04-27 21:51:00] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: b617f35d39f269ee09bd8595154b33c9bc510207d161fedde1376ed74717b469
+New Hash: 8211ed73e0a886ed1176740e6fd9226d8abcb472f4022b647a99c970f7ccf5b8
+[2025-04-27 21:54:24] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 8211ed73e0a886ed1176740e6fd9226d8abcb472f4022b647a99c970f7ccf5b8
+New Hash: d1200fb9595b5db3f1efd1c48df5278d729070acac567752531d284d195760e2
+[2025-04-27 22:05:31] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: d1200fb9595b5db3f1efd1c48df5278d729070acac567752531d284d195760e2
+New Hash: fd4c7bb476130c38bfd22516ed69066aa0436322171aec656a238f2a03edb6a8
+[2025-04-27 22:07:10] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: fd4c7bb476130c38bfd22516ed69066aa0436322171aec656a238f2a03edb6a8
+New Hash: 4834027573a4e4b64c0b5fae1c3428719252af95b610584f56bbfdcc7669527a
+[2025-04-27 22:13:51] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 4834027573a4e4b64c0b5fae1c3428719252af95b610584f56bbfdcc7669527a
+New Hash: bdbaa4133bd87d239f4d2b7c9997779622b3dae9a496ddfe4cdfd1725ea800ed
+[2025-04-27 22:22:40] DELETED FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+[2025-04-27 22:22:41] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: bdbaa4133bd87d239f4d2b7c9997779622b3dae9a496ddfe4cdfd1725ea800ed
+New Hash: efaa2c32062bf568e203819180bf64301a9731246418518bcd51b1d948c0eac0
+[2025-04-27 22:22:41] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: efaa2c32062bf568e203819180bf64301a9731246418518bcd51b1d948c0eac0
+[2025-04-27 22:23:05] DELETED FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+[2025-04-27 22:23:05] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: efaa2c32062bf568e203819180bf64301a9731246418518bcd51b1d948c0eac0
+New Hash: 74a8924c587ec920974dbba437437722db75d7ccd409155143e2cd1778498728
+[2025-04-27 22:23:06] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: 74a8924c587ec920974dbba437437722db75d7ccd409155143e2cd1778498728
+[2025-04-27 22:26:20] DELETED FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+[2025-04-27 22:26:20] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 74a8924c587ec920974dbba437437722db75d7ccd409155143e2cd1778498728
+New Hash: e2f063d0d85b292937ca46700e6bf1e66ffaa45b1d77d8efd7a6a21bd7328111
+[2025-04-27 22:26:20] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: e2f063d0d85b292937ca46700e6bf1e66ffaa45b1d77d8efd7a6a21bd7328111
+[2025-04-27 22:26:34] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-04-27 22:26:34] DELETED FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+[2025-04-27 22:26:34] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: e2f063d0d85b292937ca46700e6bf1e66ffaa45b1d77d8efd7a6a21bd7328111
+New Hash: 944993ca77763353d0f5b6859dfc5cfd0afadd8b1a5ed0f08a43c9626ebf85a7
+[2025-04-27 22:26:35] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: 944993ca77763353d0f5b6859dfc5cfd0afadd8b1a5ed0f08a43c9626ebf85a7
+[2025-04-27 22:29:35] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 944993ca77763353d0f5b6859dfc5cfd0afadd8b1a5ed0f08a43c9626ebf85a7
+New Hash: 50d5c82b8f6c61e29bc5128f53fa0590072fa3e0be0d189b996c2ca03ee26b51
+[2025-04-27 22:31:34] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 50d5c82b8f6c61e29bc5128f53fa0590072fa3e0be0d189b996c2ca03ee26b51
+New Hash: 368918a4c370c0f819e48fc6434e0f0c199055cb33077fd6ede0775d3a77badc
+[2025-04-27 22:32:40] DELETED FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+[2025-04-27 22:32:40] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 368918a4c370c0f819e48fc6434e0f0c199055cb33077fd6ede0775d3a77badc
+New Hash: eb6fb59d5aa8c7abe0593b239ce03a0558633a99621ac3df9e4e180461adef28
+[2025-04-27 22:32:41] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: eb6fb59d5aa8c7abe0593b239ce03a0558633a99621ac3df9e4e180461adef28
+[2025-04-27 22:36:53] DELETED FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+[2025-04-27 22:36:53] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: eb6fb59d5aa8c7abe0593b239ce03a0558633a99621ac3df9e4e180461adef28
+New Hash: 380af5ed705ee2a93d899c3eefba2d31c7cfa07d1f80d4778cc95afc10980c6c
+[2025-04-27 22:36:53] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: 380af5ed705ee2a93d899c3eefba2d31c7cfa07d1f80d4778cc95afc10980c6c
+[2025-04-27 22:40:19] DELETED FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+[2025-04-27 22:40:19] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 380af5ed705ee2a93d899c3eefba2d31c7cfa07d1f80d4778cc95afc10980c6c
+New Hash: 4fdc7015acae62230bee3c7ed00503180034b8a1908f25a12e10dfd286fbda05
+[2025-04-27 22:40:19] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: 4fdc7015acae62230bee3c7ed00503180034b8a1908f25a12e10dfd286fbda05
+[2025-04-27 22:47:14] DELETED FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/4913
+[2025-04-27 22:47:14] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 4fdc7015acae62230bee3c7ed00503180034b8a1908f25a12e10dfd286fbda05
+New Hash: 954fd06cc30d590937edc97d3100fb99ad82539c15753bde314f64fd7b3a245f
+[2025-04-27 22:47:14] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Hash: 954fd06cc30d590937edc97d3100fb99ad82539c15753bde314f64fd7b3a245f
+[2025-04-27 22:48:31] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 954fd06cc30d590937edc97d3100fb99ad82539c15753bde314f64fd7b3a245f
+New Hash: ed83033a8904dd397ae2134270f10cb24d55a43d05f209cd3108675e7a44bbd7
+[2025-04-27 22:50:32] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: ed83033a8904dd397ae2134270f10cb24d55a43d05f209cd3108675e7a44bbd7
+New Hash: d1d7abb598c8a96c172de53f74932dfee75c75f0b9f1ec3524d8d8aeee792b69
+[2025-04-27 22:51:57] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: d1d7abb598c8a96c172de53f74932dfee75c75f0b9f1ec3524d8d8aeee792b69
+New Hash: 093d7dae740daff6f4d12574649fc52f0100da445d567e7af8f8a0ada663b117
+[2025-04-27 22:55:07] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 093d7dae740daff6f4d12574649fc52f0100da445d567e7af8f8a0ada663b117
+New Hash: 44bb38255f35977a9261fadadbcf8670469c094d3649f6bad67c50c11501a0fe
+[2025-04-27 22:57:22] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 44bb38255f35977a9261fadadbcf8670469c094d3649f6bad67c50c11501a0fe
+New Hash: 8471db16c3073d59b7af7a64c8f969e5a4ce2bb7f8f2e5dd3eaa3e33a8c51ec0
+[2025-04-27 22:58:18] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 8471db16c3073d59b7af7a64c8f969e5a4ce2bb7f8f2e5dd3eaa3e33a8c51ec0
+New Hash: 8e9253b86332060072752bb6a576cf00d8bef51eccad604810149a0593df2305
+[2025-04-27 22:59:49] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 8e9253b86332060072752bb6a576cf00d8bef51eccad604810149a0593df2305
+New Hash: b08006315ad6bfefc7ac2c9e2cd5de27a35ac2cb5f000a683e256cfacd994a9d
+[2025-04-27 23:01:52] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: b08006315ad6bfefc7ac2c9e2cd5de27a35ac2cb5f000a683e256cfacd994a9d
+New Hash: 054892be6e9d3049e7da9b0734c666f2e2fb8cc133fac54d87d9e5d88021b610
+[2025-04-27 23:06:11] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 054892be6e9d3049e7da9b0734c666f2e2fb8cc133fac54d87d9e5d88021b610
+New Hash: b757bb1331497c564f7857f45371d496bd93cd7527f20976b846960b6904a0d8
+[2025-04-27 23:06:47] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: b252df44adc8fd58baf95f08db06021d59388a0ce52c6cf7b7bdf3c0e0b219da
+New Hash: 8e00be1d615c7804d49637253eaa8cc5241f36b3a8a3c14e0b42df0109c7ab2a
+[2025-04-27 23:07:36] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: 8e00be1d615c7804d49637253eaa8cc5241f36b3a8a3c14e0b42df0109c7ab2a
+New Hash: b252df44adc8fd58baf95f08db06021d59388a0ce52c6cf7b7bdf3c0e0b219da
+[2025-04-27 23:09:55] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: b252df44adc8fd58baf95f08db06021d59388a0ce52c6cf7b7bdf3c0e0b219da
+New Hash: cd3e76315fb67f87e624804b4e6cc3bdace411f65cfaea6ec8abecdbd9fa74e6
+[2025-04-27 23:15:18] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: cd3e76315fb67f87e624804b4e6cc3bdace411f65cfaea6ec8abecdbd9fa74e6
+New Hash: 57dc2e43d6a946aec795c26b88b29172037c801775cefdecaeacdb37ddb7ef6c
+[2025-04-27 23:20:16] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: 57dc2e43d6a946aec795c26b88b29172037c801775cefdecaeacdb37ddb7ef6c
+New Hash: 4bd03d008b4dc12652af4c7b5f74651e0ee513d22e80163064bc1a3a796b1939
+[2025-04-27 23:24:27] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: 4bd03d008b4dc12652af4c7b5f74651e0ee513d22e80163064bc1a3a796b1939
+New Hash: dee7f093642d02c332a832bb883247742a7e657f2b9cd9b371258f78ffdeeb5a
+[2025-04-27 23:27:17] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: dee7f093642d02c332a832bb883247742a7e657f2b9cd9b371258f78ffdeeb5a
+New Hash: b9df29f54f82671194417bad754ff2e49c1b1366e535c912986e86522d01dc0f
+[2025-04-27 23:28:38] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: b9df29f54f82671194417bad754ff2e49c1b1366e535c912986e86522d01dc0f
+New Hash: 53044dc142079b79ff0830a3a9192f839ead6d537266447a7c4341bb3507e104
+[2025-04-27 23:32:10] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: 53044dc142079b79ff0830a3a9192f839ead6d537266447a7c4341bb3507e104
+New Hash: 1ae752ec36571d0f3e399044ea49a16b7d55e9ecdab388cc7304ca7e4c279f5a
+[2025-04-28 09:46:47] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: 1ae752ec36571d0f3e399044ea49a16b7d55e9ecdab388cc7304ca7e4c279f5a
+New Hash: 53044dc142079b79ff0830a3a9192f839ead6d537266447a7c4341bb3507e104
+[2025-04-28 09:52:23] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/salman.txt
+Old Hash: 53044dc142079b79ff0830a3a9192f839ead6d537266447a7c4341bb3507e104
+New Hash: 4cbbe19162e10c26402d2c69a7210855daa749325925791a08237069ad126b1b
+[2025-04-28 10:12:12] NEW FILE: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/asd.txt
+Hash: e253279ef737bc75b427a2dc8b648f1d07dbd9e662d30e4b40119128d9e2842f
+[2025-04-28 10:12:13] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/test.txt
+Old Hash: 66955035ad31a7199e9de34e02be8a768a74076e8d02ad341971ee34d4dafb3d
+New Hash: 33423a57a8e63a2a8a6187ca99d6bf22fda7a189cddc239263a12890f96ba6c6
+[2025-04-28 10:12:13] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: b757bb1331497c564f7857f45371d496bd93cd7527f20976b846960b6904a0d8
+New Hash: 2d1901b2e7a2a68b757b0f89127ffdc8d72424afae447700790763a89c8ae283
+[2025-04-28 10:14:53] MODIFIED: /home/vendy/University/Semester_4/IS/VendysWatch/watch_dir/testew.txt
+Old Hash: 2d1901b2e7a2a68b757b0f89127ffdc8d72424afae447700790763a89c8ae283
+New Hash: 7a3fdd8c47d74fa129e595a547b654f27614b6463efe342b296cfaa93e45dfb8
